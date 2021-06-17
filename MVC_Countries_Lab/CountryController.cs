@@ -19,6 +19,8 @@ namespace MVC_Countries_Lab
 
         }
 
+
+
         public void CountryAction(Country c)
         {
             CountryView cdisplay = new CountryView(c);
@@ -31,11 +33,9 @@ namespace MVC_Countries_Lab
             Console.WriteLine("Hello, welcome to the country app. Please select a country from the following list:");
             cListView.Display(CountryDb);
             string userInput = Console.ReadLine();
-
-            int cNum = int.Parse(userInput);
-            Country c = CountryDb[cNum];
-            CountryAction(c);
-            Console.WriteLine("Would you like to learn about another Country?");
+            int index = int.Parse(userInput);
+            CountryAction(CountryDb[index]);
+            //Console.WriteLine("Would you like to learn about another Country?");
 
         }
     }

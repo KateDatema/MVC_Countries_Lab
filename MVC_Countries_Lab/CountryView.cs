@@ -6,16 +6,22 @@ namespace MVC_Countries_Lab
         public Country Country { get; set;}
         public Country DisplayCountry { get; set; }
 
-        public CountryView(Country Country)
+        public CountryView(Country DisplayCountry)
         {
-            this.Country = DisplayCountry;
+            this.DisplayCountry = DisplayCountry;
+
         }
 
         public void Display()
         {
             Console.WriteLine($"Name: {DisplayCountry.Name}");
             Console.WriteLine($"Continent: {DisplayCountry.Continent}");
-            Console.WriteLine($"Colors: {DisplayCountry.Colors}");
+            Console.WriteLine("Colors:");
+            for (int i = 0; i < DisplayCountry.Colors.Count; i++)
+            {
+                Console.WriteLine(DisplayCountry.Colors[i]);
+            }
+            
 
         }
 
