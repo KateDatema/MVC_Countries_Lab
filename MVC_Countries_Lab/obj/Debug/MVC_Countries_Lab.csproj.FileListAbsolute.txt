@@ -1,6 +1,6 @@
 /Users/katedatema/Projects/MVC_Countries_Lab/MVC_Countries_Lab/bin/Debug/MVC_Countries_Lab.exe
 /Users/katedatema/Projects/MVC_Countries_Lab/MVC_Countries_Lab/bin/Debug/MVC_Countries_Lab.pdb
-/Users/katedatema/Projects/MVC_Countries_Lab/MVC_Countries_Lab/obj/Debug/MVC_Countries_Lab.csprojAssemblyReference.cache
 /Users/katedatema/Projects/MVC_Countries_Lab/MVC_Countries_Lab/obj/Debug/MVC_Countries_Lab.csproj.CoreCompileInputs.cache
 /Users/katedatema/Projects/MVC_Countries_Lab/MVC_Countries_Lab/obj/Debug/MVC_Countries_Lab.exe
 /Users/katedatema/Projects/MVC_Countries_Lab/MVC_Countries_Lab/obj/Debug/MVC_Countries_Lab.pdb
+/Users/katedatema/Projects/MVC_Countries_Lab/MVC_Countries_Lab/obj/Debug/MVC_Countries_Lab.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+﻿USA, North America, red blue white
+Canada, North America, red white
+Estonia, Europe, blue black white
+France, Europe, blue white red
+Costa Rica, Central America, blue white red
+Norway, Europe, red blue white
+Japan, Asia, red white
+Australia, Australia, red blue white
+Kenya, Africa, black red and green
+Ethiopia, Africa, blue yellow green red

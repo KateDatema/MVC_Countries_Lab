@@ -37,5 +37,8 @@
     <Compile Include="CountryListView.cs" />
     <Compile Include="CountryController.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Countrys.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
